@@ -1,0 +1,8 @@
+C:\Users\ad\OneDrive\Documents\DA_NT106\ticTacToe\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.AssemblyReference.cache
+C:\Users\ad\OneDrive\Documents\DA_NT106\ticTacToe\ticTacToe\ticTacToe\obj\Debug\ticTacToe.landingPage.resources
+C:\Users\ad\OneDrive\Documents\DA_NT106\ticTacToe\ticTacToe\ticTacToe\obj\Debug\ticTacToe.GameBoard.resources
+C:\Users\ad\OneDrive\Documents\DA_NT106\ticTacToe\ticTacToe\ticTacToe\obj\Debug\ticTacToe.LobbyForm.resources
+C:\Users\ad\OneDrive\Documents\DA_NT106\ticTacToe\ticTacToe\ticTacToe\obj\Debug\ticTacToe.ProfileForm.resources
+C:\Users\ad\OneDrive\Documents\DA_NT106\ticTacToe\ticTacToe\ticTacToe\obj\Debug\ticTacToe.Properties.Resources.resources
+C:\Users\ad\OneDrive\Documents\DA_NT106\ticTacToe\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.GenerateResource.cache
+C:\Users\ad\OneDrive\Documents\DA_NT106\ticTacToe\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.CoreCompileInputs.cache
